@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 140" width="100%" height="100%">
+  <!-- Graduation Cap (Mortarboard) -->
+  <polygon points="95,20 160,52 95,78 30,52" fill="#E87C24" />
+  <polygon points="95,78 152,56 152,68 95,90 38,68 38,56" fill="#D46A18" />
+  <line x1="42" y1="56" x2="42" y2="92" stroke="#E87C24" stroke-width="3" stroke-linecap="round" />
+  <circle cx="42" cy="94" r="4.5" fill="#E87C24" />
+
+  <!-- Blue Stylized Letter A Arch -->
+  <path d="M 64 68 C 64 50, 126 50, 126 68 L 126 125 C 126 125, 116 110, 102 110 C 88 110, 88 125, 88 125 Z" fill="#E87C24" opacity="0.9" />
+  
+  <path d="M 65 52 C 50 52, 22 88, 18 126 L 40 126 C 45 102, 60 82, 80 82 C 92 82, 100 90, 104 100 L 118 86 C 110 70, 94 52, 65 52 Z" fill="#0B2B68" />
+  <path d="M 18 126 C 25 110, 50 96, 75 96 L 75 110 C 55 110, 38 118, 32 126 Z" fill="#0E3A8A" />
+
+  <!-- Bar Growth Elements -->
+  <rect x="79" y="92" width="13" height="34" rx="2" fill="#E87C24" />
+  <rect x="96" y="74" width="13" height="52" rx="2" fill="#1A4FA2" />
+  
+  <!-- Right Growth Arrow -->
+  <path d="M 115 54 L 126 36 L 137 54 L 130 54 L 130 126 L 122 126 L 122 54 Z" fill="#0B2B68" />
+
+  <!-- AKUMEN Text -->
+  <text x="165" y="105" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Helvetica, Arial, sans-serif" font-weight="900" font-size="78" fill="#0B2B68" letter-spacing="1.5">AKUMEN</text>
+</svg>
